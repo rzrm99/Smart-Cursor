@@ -132,9 +132,9 @@ OR IMPLIED.
 
 ------------------------------------------------------------------------
 
-## 📧 Contact
+##  Contact
 
 If you use this project and it helps you --- or if you have suggestions
 to improve it --- please reach out!
 
-Together we can make technology more accessible for everyone. 🌍
+Together we can make technology more accessible for everyone. 
