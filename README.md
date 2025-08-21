@@ -22,6 +22,35 @@ with disabilities** to interact with their computers more easily.
 -   Works on **Windows**, **Linux**, and **macOS**
 
 ------------------------------------------------------------------------
+#  How to Use Smart Cursor
+
+Once you run **Smart Cursor**, your webcam will start tracking your **nose** and **eyes**.  
+Here’s how to control the mouse:
+
+##  Nose Controls
+- Move your **nose** → moves the **mouse pointer**
+- Move nose up/down while in **Scroll Mode** → scroll the page
+
+##  Eye Wink Controls
+- **Left Eye Wink (hold)** → **Drag & Drop**
+  - Keep left eye closed = hold the left mouse button
+  - Open eye again = release the button
+- **Right Eye Wink (hold)** → **Right Click**
+
+##  Hotkeys
+- **Q / ESC** → Quit
+- **C** → Calibrate center (set new neutral position)
+- **S** → Span wizard (auto calibration for your movement range)
+- **B** → Reset blink calibration
+- **L / R** → Test left / right click
+- **D** → Switch drag style (`hold` vs `toggle`)
+- **M** → Toggle scroll mode
+- **P** → Pause / resume tracking
+- **O** → Toggle overlay (UI on screen)
+- **H** → Show / hide help text
+
+
+------------------------------------------------------------------------
 
 ##  Requirements
 
@@ -67,21 +96,6 @@ If you want a standalone `.exe` file:
 3.  Find your exe inside the `dist/` folder:
 
         dist/Smart Cursor.exe
-
-------------------------------------------------------------------------
-
-##  Controls (Hotkeys)
-
--   **Q / ESC** → Quit
--   **C** → Center calibration
--   **S** → Span wizard (auto calibration)
--   **B** → Blink calibration reset
--   **L / R** → Test left / right click
--   **D** → Switch drag behavior (hold or toggle)
--   **M** → Toggle scroll mode
--   **P** → Pause / resume cursor control
--   **O** → Toggle overlay
--   **H** → Toggle help text
 
 ------------------------------------------------------------------------
 
